@@ -1,8 +1,7 @@
 body {
   background-color: crimson;
+  padding: 30px;
   margin: 20px;
 }
 
-button {
-  color: red;
-}
+
